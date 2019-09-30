@@ -25,11 +25,11 @@ pip install 'insert-package-name'
 for example:
 pip install pandas
 
-# Runnning the Tests
+# Running the Tests
 There are no tests. We move fast and break things
 
 # Authors and Contributors
 J.T. Bassett with help from Kaggle and Analytics Vidhya
 
 # Acknowledgments
-Thanks to the Omega Labs and Analysis teams for putting up with this sub-par readme
+Thanks to the Omega Labs and Analysis teams for allowing me to present
