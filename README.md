@@ -1,12 +1,14 @@
 # Olive_Loan_Prediction_Workshop
-This code takes you through the entire process of building a basic predictive model including:
+This workshop was created and hosted by J.T. Bassett for the entire Omega (support) department, with a focus on the Labs and Analysis teams. It was meant to be a quick, run-through of the model-building process, providing enough to get people started.
+
+The code takes you through the entire process of building a basic predictive model including:
 - Reading in the data
 - Exploring
 - Preprocessing
 - Building the model
 - Testing different hyperparameters
 
-It is a very basic run through but users are encouraged to explore other applications of these techniques
+Users are encouraged to explore other applications of these techniques.
 
 # Getting Started
 The workshop code is meant to run in binder, but if run in your own environment please make sure to have the following prerequisites installed.
@@ -24,9 +26,6 @@ pip install 'insert-package-name'
 
 for example:
 pip install pandas
-
-# Running the Tests
-There are no tests. We move fast and break things
 
 # Authors and Contributors
 J.T. Bassett with help from Kaggle and Analytics Vidhya
